@@ -1,3 +1,6 @@
 {
-  "ativa": True
-}
+  "ativa": true,
+  "versao": "1.0",
+  "ultima_atualizacao": "2024-01-15T10:30:00",
+  "observacoes": "Sistema funcionando normalmente"
+} 
